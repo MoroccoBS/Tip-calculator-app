@@ -9,6 +9,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        StrongCyan: "var(--StrongCyan)",
+        colorHover: "hsl(172, 67%, 75%)",
         VeryDarCyan: "var(--VeryDarCyan)",
         DarkGrayishCyan: "var(--DarkGrayishCyan)",
         GrayishCyan: "var(--GrayishCyan)",
